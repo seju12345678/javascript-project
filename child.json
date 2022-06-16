@@ -1,0 +1,16 @@
+{
+    "course": {
+        "id": "282",
+        "name": "callbacks",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "We will discuss about what is a callback function.",
+        "type": "js",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": []
+    }
+}
